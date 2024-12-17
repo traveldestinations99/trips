@@ -193,7 +193,7 @@ header .nav-links a:hover {
 
 /* Hero Section */
 .hero {
-    background: url('../images/mahabalipuram.jpg') no-repeat center center/cover;
+    background: url('../images/mahabalipuram.JPG') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
