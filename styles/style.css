@@ -12,6 +12,10 @@ body {
     background: #fff;
 }
 
+iframe { 
+	margin: 15px;
+}
+
 .container {
     width: 90%;
    // max-width: 1200px;
